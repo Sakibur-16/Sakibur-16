@@ -44,7 +44,7 @@ I think I am slowly losing my mind... but at least it's optimizing for intellige
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikit_learn,fastapi,docker,git,linux,bash,mongodb,mysql,postman,matlab,c,cpp,figma,photoshop,illustrator&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,git,linux,mongodb,mysql,postman,matlab,c,cpp,figma,photoshop & illustrator=10" />
   </a>
 </p>
 
