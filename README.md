@@ -27,7 +27,7 @@
 
 
 ### 👨‍💻 All My Projects
-[github.com/Sakibur-16](https://github.com/Sakibur-16)
+[github.com/Sakibur-16](https://github.com/Sakibur-16?tab=repositories)
 
 ### 💬 Ask Me About
 `Python` `Deep Learning` `Computer Vision` `RAG Pipelines` `LLMs` `Digital Image Processing` `PC Hardware & Optimization`
