@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Md. Sakibur Rahman
 
-### AI Engineer | ML Researcher | Computer Vision Enthusiast
+### AI Developer | ML Researcher | Computer Vision Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+🤖;Turning+data+into+insights+📊;Deep+diving+into+RAG+%26+Computer+Vision+🔍;Optimizing+AI+for+real-world+impact+⚡" alt="Typing SVG" />
 
