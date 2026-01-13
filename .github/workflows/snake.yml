@@ -1,6 +1,5 @@
 permissions:
   contents: write
-  # Added permission to read private contributions
   actions: read
 
 name: GitHub Snake Game
@@ -23,7 +22,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the snake animations, including private contributions
+      # Step 2: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -33,7 +32,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Ensuring the token can access private repositories
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Step 3: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
